@@ -1,0 +1,1702 @@
+{
+    "nodes": [
+        {
+            "id": "CMI",
+            "group": 1
+        },
+        {
+            "id": "MQT",
+            "group": 1
+        },
+        {
+            "id": "CSG",
+            "group": 1
+        },
+        {
+            "id": "ELP",
+            "group": 1
+        },
+        {
+            "id": "DSM",
+            "group": 1
+        },
+        {
+            "id": "SAF",
+            "group": 1
+        },
+        {
+            "id": "RNO",
+            "group": 1
+        },
+        {
+            "id": "SPI",
+            "group": 1
+        },
+        {
+            "id": "MOB",
+            "group": 1
+        },
+        {
+            "id": "ACT",
+            "group": 1
+        },
+        {
+            "id": "RAP",
+            "group": 1
+        },
+        {
+            "id": "LRD",
+            "group": 1
+        },
+        {
+            "id": "BDL",
+            "group": 1
+        },
+        {
+            "id": "BMI",
+            "group": 1
+        },
+        {
+            "id": "LCH",
+            "group": 1
+        },
+        {
+            "id": "EWR",
+            "group": 1
+        },
+        {
+            "id": "YKM",
+            "group": 1
+        },
+        {
+            "id": "LGA",
+            "group": 1
+        },
+        {
+            "id": "PBI",
+            "group": 1
+        },
+        {
+            "id": "STS",
+            "group": 1
+        },
+        {
+            "id": "BAL",
+            "group": 1
+        },
+        {
+            "id": "SNA",
+            "group": 1
+        },
+        {
+            "id": "LAS",
+            "group": 1
+        },
+        {
+            "id": "ABI",
+            "group": 1
+        },
+        {
+            "id": "LAW",
+            "group": 1
+        },
+        {
+            "id": "PSC",
+            "group": 1
+        },
+        {
+            "id": "EYW",
+            "group": 1
+        },
+        {
+            "id": "SDF",
+            "group": 1
+        },
+        {
+            "id": "TUS",
+            "group": 1
+        },
+        {
+            "id": "PNS",
+            "group": 1
+        },
+        {
+            "id": "UIN",
+            "group": 1
+        },
+        {
+            "id": "BNA",
+            "group": 1
+        },
+        {
+            "id": "BOS",
+            "group": 1
+        },
+        {
+            "id": "MKE",
+            "group": 1
+        },
+        {
+            "id": "CAE",
+            "group": 1
+        },
+        {
+            "id": "IND",
+            "group": 1
+        },
+        {
+            "id": "BWI",
+            "group": 1
+        },
+        {
+            "id": "MYR",
+            "group": 1
+        },
+        {
+            "id": "CMH",
+            "group": 1
+        },
+        {
+            "id": "PIA",
+            "group": 1
+        },
+        {
+            "id": "KOA",
+            "group": 1
+        },
+        {
+            "id": "MLI",
+            "group": 1
+        },
+        {
+            "id": "LIH",
+            "group": 1
+        },
+        {
+            "id": "MEM",
+            "group": 1
+        },
+        {
+            "id": "FLL",
+            "group": 1
+        },
+        {
+            "id": "JAC",
+            "group": 1
+        },
+        {
+            "id": "FAY",
+            "group": 1
+        },
+        {
+            "id": "DCA",
+            "group": 1
+        },
+        {
+            "id": "LSE",
+            "group": 1
+        },
+        {
+            "id": "CVG",
+            "group": 1
+        },
+        {
+            "id": "OMA",
+            "group": 1
+        },
+        {
+            "id": "DTW",
+            "group": 1
+        },
+        {
+            "id": "TUL",
+            "group": 1
+        },
+        {
+            "id": "LGB",
+            "group": 1
+        },
+        {
+            "id": "HSV",
+            "group": 1
+        },
+        {
+            "id": "ROC",
+            "group": 1
+        },
+        {
+            "id": "CYS",
+            "group": 1
+        },
+        {
+            "id": "MAF",
+            "group": 1
+        },
+        {
+            "id": "LFT",
+            "group": 1
+        },
+        {
+            "id": "BOI",
+            "group": 1
+        },
+        {
+            "id": "PDX",
+            "group": 1
+        },
+        {
+            "id": "SAN",
+            "group": 1
+        },
+        {
+            "id": "HOU",
+            "group": 1
+        },
+        {
+            "id": "GRR",
+            "group": 1
+        },
+        {
+            "id": "TYS",
+            "group": 1
+        },
+        {
+            "id": "EUG",
+            "group": 1
+        },
+        {
+            "id": "XNA",
+            "group": 1
+        },
+        {
+            "id": "STX",
+            "group": 1
+        },
+        {
+            "id": "GJT",
+            "group": 1
+        },
+        {
+            "id": "GRB",
+            "group": 1
+        },
+        {
+            "id": "ANC",
+            "group": 1
+        },
+        {
+            "id": "OAK",
+            "group": 1
+        },
+        {
+            "id": "STT",
+            "group": 1
+        },
+        {
+            "id": "CWA",
+            "group": 1
+        },
+        {
+            "id": "OGG",
+            "group": 1
+        },
+        {
+            "id": "DBQ",
+            "group": 1
+        },
+        {
+            "id": "DEN",
+            "group": 1
+        },
+        {
+            "id": "TRI",
+            "group": 1
+        },
+        {
+            "id": "SYR",
+            "group": 1
+        },
+        {
+            "id": "ATL",
+            "group": 1
+        },
+        {
+            "id": "SAT",
+            "group": 1
+        },
+        {
+            "id": "PHX",
+            "group": 1
+        },
+        {
+            "id": "LBB",
+            "group": 1
+        },
+        {
+            "id": "JAN",
+            "group": 1
+        },
+        {
+            "id": "RIC",
+            "group": 1
+        },
+        {
+            "id": "FSM",
+            "group": 1
+        },
+        {
+            "id": "HDN",
+            "group": 1
+        },
+        {
+            "id": "SPS",
+            "group": 1
+        },
+        {
+            "id": "AVL",
+            "group": 1
+        },
+        {
+            "id": "AMA",
+            "group": 1
+        },
+        {
+            "id": "GSO",
+            "group": 1
+        },
+        {
+            "id": "SFO",
+            "group": 1
+        },
+        {
+            "id": "JNU",
+            "group": 1
+        },
+        {
+            "id": "SEA",
+            "group": 1
+        },
+        {
+            "id": "BUF",
+            "group": 1
+        },
+        {
+            "id": "MCO",
+            "group": 1
+        },
+        {
+            "id": "TXK",
+            "group": 1
+        },
+        {
+            "id": "SJT",
+            "group": 1
+        },
+        {
+            "id": "TPA",
+            "group": 1
+        },
+        {
+            "id": "MHK",
+            "group": 1
+        },
+        {
+            "id": "FNT",
+            "group": 1
+        },
+        {
+            "id": "MFE",
+            "group": 1
+        },
+        {
+            "id": "SLC",
+            "group": 1
+        },
+        {
+            "id": "VPS",
+            "group": 1
+        },
+        {
+            "id": "MSN",
+            "group": 1
+        },
+        {
+            "id": "MIA",
+            "group": 1
+        },
+        {
+            "id": "GRK",
+            "group": 1
+        },
+        {
+            "id": "ORD",
+            "group": 1
+        },
+        {
+            "id": "CHA",
+            "group": 1
+        },
+        {
+            "id": "GEG",
+            "group": 1
+        },
+        {
+            "id": "MLU",
+            "group": 1
+        },
+        {
+            "id": "MTJ",
+            "group": 1
+        },
+        {
+            "id": "CLE",
+            "group": 1
+        },
+        {
+            "id": "MRY",
+            "group": 1
+        },
+        {
+            "id": "SJC",
+            "group": 1
+        },
+        {
+            "id": "MWA",
+            "group": 1
+        },
+        {
+            "id": "JFK",
+            "group": 1
+        },
+        {
+            "id": "FWA",
+            "group": 1
+        },
+        {
+            "id": "AVP",
+            "group": 1
+        },
+        {
+            "id": "SJU",
+            "group": 1
+        },
+        {
+            "id": "TVC",
+            "group": 1
+        },
+        {
+            "id": "JAX",
+            "group": 1
+        },
+        {
+            "id": "IAD",
+            "group": 1
+        },
+        {
+            "id": "TYR",
+            "group": 1
+        },
+        {
+            "id": "GUC",
+            "group": 1
+        },
+        {
+            "id": "SGF",
+            "group": 1
+        },
+        {
+            "id": "FAI",
+            "group": 1
+        },
+        {
+            "id": "CRP",
+            "group": 1
+        },
+        {
+            "id": "BSM",
+            "group": 1
+        },
+        {
+            "id": "LEX",
+            "group": 1
+        },
+        {
+            "id": "HPN",
+            "group": 1
+        },
+        {
+            "id": "EGE",
+            "group": 1
+        },
+        {
+            "id": "CRW",
+            "group": 1
+        },
+        {
+            "id": "EVV",
+            "group": 1
+        },
+        {
+            "id": "RST",
+            "group": 1
+        },
+        {
+            "id": "STL",
+            "group": 1
+        },
+        {
+            "id": "GPT",
+            "group": 1
+        },
+        {
+            "id": "ORF",
+            "group": 1
+        },
+        {
+            "id": "RSW",
+            "group": 1
+        },
+        {
+            "id": "MSP",
+            "group": 1
+        },
+        {
+            "id": "RDU",
+            "group": 1
+        },
+        {
+            "id": "SHV",
+            "group": 1
+        },
+        {
+            "id": "BTR",
+            "group": 1
+        },
+        {
+            "id": "SMF",
+            "group": 1
+        },
+        {
+            "id": "TOL",
+            "group": 1
+        },
+        {
+            "id": "CID",
+            "group": 1
+        },
+        {
+            "id": "DFW",
+            "group": 1
+        },
+        {
+            "id": "DAY",
+            "group": 1
+        },
+        {
+            "id": "CLL",
+            "group": 1
+        },
+        {
+            "id": "BHM",
+            "group": 1
+        },
+        {
+            "id": "FAR",
+            "group": 1
+        },
+        {
+            "id": "AGS",
+            "group": 1
+        },
+        {
+            "id": "MSY",
+            "group": 1
+        },
+        {
+            "id": "LAX",
+            "group": 1
+        },
+        {
+            "id": "OKC",
+            "group": 1
+        },
+        {
+            "id": "LIT",
+            "group": 1
+        },
+        {
+            "id": "HNL",
+            "group": 1
+        },
+        {
+            "id": "MGM",
+            "group": 1
+        },
+        {
+            "id": "IAH",
+            "group": 1
+        },
+        {
+            "id": "AZO",
+            "group": 1
+        },
+        {
+            "id": "CGI",
+            "group": 1
+        },
+        {
+            "id": "GSP",
+            "group": 1
+        },
+        {
+            "id": "CHS",
+            "group": 1
+        },
+        {
+            "id": "ROW",
+            "group": 1
+        },
+        {
+            "id": "MFR",
+            "group": 1
+        },
+        {
+            "id": "ABQ",
+            "group": 1
+        },
+        {
+            "id": "COS",
+            "group": 1
+        },
+        {
+            "id": "SAV",
+            "group": 1
+        },
+        {
+            "id": "ABE",
+            "group": 1
+        },
+        {
+            "id": "AUS",
+            "group": 1
+        },
+        {
+            "id": "FAT",
+            "group": 1
+        },
+        {
+            "id": "SUN",
+            "group": 1
+        },
+        {
+            "id": "PIT",
+            "group": 1
+        },
+        {
+            "id": "ICT",
+            "group": 1
+        },
+        {
+            "id": "CLT",
+            "group": 1
+        },
+        {
+            "id": "ONT",
+            "group": 1
+        },
+        {
+            "id": "BRO",
+            "group": 1
+        },
+        {
+            "id": "TLH",
+            "group": 1
+        },
+        {
+            "id": "MDT",
+            "group": 1
+        },
+        {
+            "id": "BUR",
+            "group": 1
+        },
+        {
+            "id": "GNV",
+            "group": 1
+        },
+        {
+            "id": "MCI",
+            "group": 1
+        },
+        {
+            "id": "AEX",
+            "group": 1
+        },
+        {
+            "id": "FSD",
+            "group": 1
+        },
+        {
+            "id": "PSP",
+            "group": 1
+        },
+        {
+            "id": "SBA",
+            "group": 1
+        },
+        {
+            "id": "ITO",
+            "group": 1
+        },
+        {
+            "id": "GGG",
+            "group": 1
+        },
+        {
+            "id": "PHL",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "ORD",
+            "target": "CMI",
+            "value": 135.0
+        },
+        {
+            "source": "LAX",
+            "target": "SAF",
+            "value": 710.0
+        },
+        {
+            "source": "LGA",
+            "target": "BOS",
+            "value": 185.0
+        },
+        {
+            "source": "BUF",
+            "target": "BOS",
+            "value": 396.0
+        },
+        {
+            "source": "FAI",
+            "target": "MKE",
+            "value": 2763.0
+        },
+        {
+            "source": "RDU",
+            "target": "CMH",
+            "value": 361.0
+        },
+        {
+            "source": "JFK",
+            "target": "DCA",
+            "value": 213.0
+        },
+        {
+            "source": "DEN",
+            "target": "OMA",
+            "value": 472.0
+        },
+        {
+            "source": "SEA",
+            "target": "BOI",
+            "value": 399.0
+        },
+        {
+            "source": "SNA",
+            "target": "PDX",
+            "value": 859.0
+        },
+        {
+            "source": "LGB",
+            "target": "PDX",
+            "value": 846.0
+        },
+        {
+            "source": "ANC",
+            "target": "PDX",
+            "value": 1578.0
+        },
+        {
+            "source": "OAK",
+            "target": "PDX",
+            "value": 543.0
+        },
+        {
+            "source": "GEG",
+            "target": "PDX",
+            "value": 279.0
+        },
+        {
+            "source": "ONT",
+            "target": "PDX",
+            "value": 879.166666666667
+        },
+        {
+            "source": "BUR",
+            "target": "PDX",
+            "value": 817.0
+        },
+        {
+            "source": "STS",
+            "target": "SAN",
+            "value": 508.0
+        },
+        {
+            "source": "BMI",
+            "target": "GRR",
+            "value": 253.0
+        },
+        {
+            "source": "BOI",
+            "target": "EUG",
+            "value": 633.0
+        },
+        {
+            "source": "EUG",
+            "target": "OAK",
+            "value": 649.0
+        },
+        {
+            "source": "TXK",
+            "target": "ATL",
+            "value": 913.0
+        },
+        {
+            "source": "MIA",
+            "target": "ATL",
+            "value": 595.169521299956
+        },
+        {
+            "source": "YKM",
+            "target": "SFO",
+            "value": 782.0
+        },
+        {
+            "source": "PSC",
+            "target": "SFO",
+            "value": 851.0
+        },
+        {
+            "source": "PDX",
+            "target": "SFO",
+            "value": 550.0
+        },
+        {
+            "source": "HNL",
+            "target": "SFO",
+            "value": 2513.95211492418
+        },
+        {
+            "source": "PSP",
+            "target": "SFO",
+            "value": 421.0
+        },
+        {
+            "source": "SMF",
+            "target": "SEA",
+            "value": 605.0
+        },
+        {
+            "source": "EYW",
+            "target": "MIA",
+            "value": 126.0
+        },
+        {
+            "source": "PNS",
+            "target": "MIA",
+            "value": 530.0
+        },
+        {
+            "source": "STT",
+            "target": "MIA",
+            "value": 1108.2789373814
+        },
+        {
+            "source": "GSO",
+            "target": "MIA",
+            "value": 710.0
+        },
+        {
+            "source": "MCO",
+            "target": "MIA",
+            "value": 193.0
+        },
+        {
+            "source": "TPA",
+            "target": "MIA",
+            "value": 204.0
+        },
+        {
+            "source": "MWA",
+            "target": "MIA",
+            "value": 1168.0
+        },
+        {
+            "source": "SJU",
+            "target": "MIA",
+            "value": 1045.92091922947
+        },
+        {
+            "source": "JAX",
+            "target": "MIA",
+            "value": 334.0
+        },
+        {
+            "source": "CHS",
+            "target": "MIA",
+            "value": 490.0
+        },
+        {
+            "source": "SAV",
+            "target": "MIA",
+            "value": 440.0
+        },
+        {
+            "source": "TLH",
+            "target": "MIA",
+            "value": 403.0
+        },
+        {
+            "source": "MQT",
+            "target": "ORD",
+            "value": 303.0
+        },
+        {
+            "source": "DSM",
+            "target": "ORD",
+            "value": 299.0
+        },
+        {
+            "source": "SPI",
+            "target": "ORD",
+            "value": 174.0
+        },
+        {
+            "source": "RAP",
+            "target": "ORD",
+            "value": 780.0
+        },
+        {
+            "source": "SDF",
+            "target": "ORD",
+            "value": 286.0
+        },
+        {
+            "source": "UIN",
+            "target": "ORD",
+            "value": 352.0
+        },
+        {
+            "source": "IND",
+            "target": "ORD",
+            "value": 177.0
+        },
+        {
+            "source": "CMH",
+            "target": "ORD",
+            "value": 296.0
+        },
+        {
+            "source": "PIA",
+            "target": "ORD",
+            "value": 130.0
+        },
+        {
+            "source": "MLI",
+            "target": "ORD",
+            "value": 139.0
+        },
+        {
+            "source": "LSE",
+            "target": "ORD",
+            "value": 215.0
+        },
+        {
+            "source": "CVG",
+            "target": "ORD",
+            "value": 264.0
+        },
+        {
+            "source": "OMA",
+            "target": "ORD",
+            "value": 416.0
+        },
+        {
+            "source": "DTW",
+            "target": "ORD",
+            "value": 235.0
+        },
+        {
+            "source": "HSV",
+            "target": "ORD",
+            "value": 510.0
+        },
+        {
+            "source": "ROC",
+            "target": "ORD",
+            "value": 528.0
+        },
+        {
+            "source": "GRR",
+            "target": "ORD",
+            "value": 137.0
+        },
+        {
+            "source": "TYS",
+            "target": "ORD",
+            "value": 475.0
+        },
+        {
+            "source": "GRB",
+            "target": "ORD",
+            "value": 174.0
+        },
+        {
+            "source": "CWA",
+            "target": "ORD",
+            "value": 213.0
+        },
+        {
+            "source": "DBQ",
+            "target": "ORD",
+            "value": 147.0
+        },
+        {
+            "source": "TRI",
+            "target": "ORD",
+            "value": 481.0
+        },
+        {
+            "source": "SYR",
+            "target": "ORD",
+            "value": 618.888888888889
+        },
+        {
+            "source": "ATL",
+            "target": "ORD",
+            "value": 606.658128078818
+        },
+        {
+            "source": "RIC",
+            "target": "ORD",
+            "value": 670.421052631579
+        },
+        {
+            "source": "JNU",
+            "target": "ORD",
+            "value": 2630.0
+        },
+        {
+            "source": "FNT",
+            "target": "ORD",
+            "value": 223.0
+        },
+        {
+            "source": "MSN",
+            "target": "ORD",
+            "value": 109.0
+        },
+        {
+            "source": "CHA",
+            "target": "ORD",
+            "value": 501.0
+        },
+        {
+            "source": "CLE",
+            "target": "ORD",
+            "value": 316.0
+        },
+        {
+            "source": "FWA",
+            "target": "ORD",
+            "value": 157.0
+        },
+        {
+            "source": "AVP",
+            "target": "ORD",
+            "value": 631.0
+        },
+        {
+            "source": "TVC",
+            "target": "ORD",
+            "value": 224.0
+        },
+        {
+            "source": "SGF",
+            "target": "ORD",
+            "value": 438.0
+        },
+        {
+            "source": "LEX",
+            "target": "ORD",
+            "value": 323.0
+        },
+        {
+            "source": "HPN",
+            "target": "ORD",
+            "value": 738.0
+        },
+        {
+            "source": "CRW",
+            "target": "ORD",
+            "value": 416.0
+        },
+        {
+            "source": "EVV",
+            "target": "ORD",
+            "value": 273.0
+        },
+        {
+            "source": "RST",
+            "target": "ORD",
+            "value": 268.0
+        },
+        {
+            "source": "STL",
+            "target": "ORD",
+            "value": 258.0
+        },
+        {
+            "source": "MSP",
+            "target": "ORD",
+            "value": 334.132645803698
+        },
+        {
+            "source": "TOL",
+            "target": "ORD",
+            "value": 214.0
+        },
+        {
+            "source": "CID",
+            "target": "ORD",
+            "value": 196.0
+        },
+        {
+            "source": "DAY",
+            "target": "ORD",
+            "value": 240.0
+        },
+        {
+            "source": "FAR",
+            "target": "ORD",
+            "value": 557.0
+        },
+        {
+            "source": "AZO",
+            "target": "ORD",
+            "value": 122.0
+        },
+        {
+            "source": "ABE",
+            "target": "ORD",
+            "value": 654.0
+        },
+        {
+            "source": "MDT",
+            "target": "ORD",
+            "value": 594.0
+        },
+        {
+            "source": "MCI",
+            "target": "ORD",
+            "value": 403.0
+        },
+        {
+            "source": "FSD",
+            "target": "ORD",
+            "value": 462.0
+        },
+        {
+            "source": "EWR",
+            "target": "CLE",
+            "value": 404.0
+        },
+        {
+            "source": "BAL",
+            "target": "JFK",
+            "value": 184.0
+        },
+        {
+            "source": "BOS",
+            "target": "JFK",
+            "value": 187.0
+        },
+        {
+            "source": "BWI",
+            "target": "JFK",
+            "value": 184.0
+        },
+        {
+            "source": "ORF",
+            "target": "JFK",
+            "value": 289.0
+        },
+        {
+            "source": "PIT",
+            "target": "JFK",
+            "value": 340.0
+        },
+        {
+            "source": "CLT",
+            "target": "JFK",
+            "value": 541.0
+        },
+        {
+            "source": "PHL",
+            "target": "JFK",
+            "value": 94.0
+        },
+        {
+            "source": "MKE",
+            "target": "FWA",
+            "value": 224.0
+        },
+        {
+            "source": "STX",
+            "target": "SJU",
+            "value": 94.0
+        },
+        {
+            "source": "RSW",
+            "target": "JAX",
+            "value": 439.0
+        },
+        {
+            "source": "FLL",
+            "target": "IAD",
+            "value": 901.0
+        },
+        {
+            "source": "DFW",
+            "target": "SGF",
+            "value": 364.0
+        },
+        {
+            "source": "MFE",
+            "target": "BSM",
+            "value": 279.0
+        },
+        {
+            "source": "TYR",
+            "target": "BSM",
+            "value": 293.0
+        },
+        {
+            "source": "BNA",
+            "target": "STL",
+            "value": 271.0
+        },
+        {
+            "source": "BDL",
+            "target": "RDU",
+            "value": 532.0
+        },
+        {
+            "source": "DCA",
+            "target": "RDU",
+            "value": 227.0
+        },
+        {
+            "source": "IAD",
+            "target": "RDU",
+            "value": 224.0
+        },
+        {
+            "source": "CSG",
+            "target": "DFW",
+            "value": 705.0
+        },
+        {
+            "source": "ELP",
+            "target": "DFW",
+            "value": 552.363373772386
+        },
+        {
+            "source": "SAF",
+            "target": "DFW",
+            "value": 550.0
+        },
+        {
+            "source": "MOB",
+            "target": "DFW",
+            "value": 560.0
+        },
+        {
+            "source": "ACT",
+            "target": "DFW",
+            "value": 89.0
+        },
+        {
+            "source": "LRD",
+            "target": "DFW",
+            "value": 396.0
+        },
+        {
+            "source": "LCH",
+            "target": "DFW",
+            "value": 295.0
+        },
+        {
+            "source": "ABI",
+            "target": "DFW",
+            "value": 158.0
+        },
+        {
+            "source": "LAW",
+            "target": "DFW",
+            "value": 140.0
+        },
+        {
+            "source": "TUS",
+            "target": "DFW",
+            "value": 814.896326119779
+        },
+        {
+            "source": "CAE",
+            "target": "DFW",
+            "value": 922.0
+        },
+        {
+            "source": "MEM",
+            "target": "DFW",
+            "value": 432.0
+        },
+        {
+            "source": "JAC",
+            "target": "DFW",
+            "value": 1072.07954545455
+        },
+        {
+            "source": "FAY",
+            "target": "DFW",
+            "value": 1052.0
+        },
+        {
+            "source": "TUL",
+            "target": "DFW",
+            "value": 237.0
+        },
+        {
+            "source": "CYS",
+            "target": "DFW",
+            "value": 713.0
+        },
+        {
+            "source": "MAF",
+            "target": "DFW",
+            "value": 309.0
+        },
+        {
+            "source": "LFT",
+            "target": "DFW",
+            "value": 351.0
+        },
+        {
+            "source": "HOU",
+            "target": "DFW",
+            "value": 247.0
+        },
+        {
+            "source": "XNA",
+            "target": "DFW",
+            "value": 281.0
+        },
+        {
+            "source": "GJT",
+            "target": "DFW",
+            "value": 801.230769230769
+        },
+        {
+            "source": "SAT",
+            "target": "DFW",
+            "value": 247.0
+        },
+        {
+            "source": "PHX",
+            "target": "DFW",
+            "value": 870.355446355446
+        },
+        {
+            "source": "LBB",
+            "target": "DFW",
+            "value": 282.0
+        },
+        {
+            "source": "JAN",
+            "target": "DFW",
+            "value": 431.333333333333
+        },
+        {
+            "source": "FSM",
+            "target": "DFW",
+            "value": 228.0
+        },
+        {
+            "source": "HDN",
+            "target": "DFW",
+            "value": 769.0
+        },
+        {
+            "source": "SPS",
+            "target": "DFW",
+            "value": 113.0
+        },
+        {
+            "source": "AVL",
+            "target": "DFW",
+            "value": 848.0
+        },
+        {
+            "source": "AMA",
+            "target": "DFW",
+            "value": 313.0
+        },
+        {
+            "source": "MHK",
+            "target": "DFW",
+            "value": 431.0
+        },
+        {
+            "source": "VPS",
+            "target": "DFW",
+            "value": 651.307692307692
+        },
+        {
+            "source": "GRK",
+            "target": "DFW",
+            "value": 134.0
+        },
+        {
+            "source": "MLU",
+            "target": "DFW",
+            "value": 293.0
+        },
+        {
+            "source": "MTJ",
+            "target": "DFW",
+            "value": 722.0
+        },
+        {
+            "source": "GUC",
+            "target": "DFW",
+            "value": 678.0
+        },
+        {
+            "source": "CRP",
+            "target": "DFW",
+            "value": 354.0
+        },
+        {
+            "source": "BSM",
+            "target": "DFW",
+            "value": 190.69648241206
+        },
+        {
+            "source": "EGE",
+            "target": "DFW",
+            "value": 720.0
+        },
+        {
+            "source": "GPT",
+            "target": "DFW",
+            "value": 556.5
+        },
+        {
+            "source": "SHV",
+            "target": "DFW",
+            "value": 190.0
+        },
+        {
+            "source": "BTR",
+            "target": "DFW",
+            "value": 383.0
+        },
+        {
+            "source": "CLL",
+            "target": "DFW",
+            "value": 164.0
+        },
+        {
+            "source": "BHM",
+            "target": "DFW",
+            "value": 598.346816976127
+        },
+        {
+            "source": "AGS",
+            "target": "DFW",
+            "value": 874.0
+        },
+        {
+            "source": "MSY",
+            "target": "DFW",
+            "value": 448.484872611465
+        },
+        {
+            "source": "OKC",
+            "target": "DFW",
+            "value": 175.0
+        },
+        {
+            "source": "LIT",
+            "target": "DFW",
+            "value": 304.0
+        },
+        {
+            "source": "MGM",
+            "target": "DFW",
+            "value": 659.384615384615
+        },
+        {
+            "source": "IAH",
+            "target": "DFW",
+            "value": 224.0
+        },
+        {
+            "source": "GSP",
+            "target": "DFW",
+            "value": 862.0
+        },
+        {
+            "source": "ROW",
+            "target": "DFW",
+            "value": 435.0
+        },
+        {
+            "source": "ABQ",
+            "target": "DFW",
+            "value": 573.157336476134
+        },
+        {
+            "source": "COS",
+            "target": "DFW",
+            "value": 593.000625782228
+        },
+        {
+            "source": "AUS",
+            "target": "DFW",
+            "value": 190.69648241206
+        },
+        {
+            "source": "ICT",
+            "target": "DFW",
+            "value": 328.36496350365
+        },
+        {
+            "source": "BRO",
+            "target": "DFW",
+            "value": 482.0
+        },
+        {
+            "source": "AEX",
+            "target": "DFW",
+            "value": 285.0
+        },
+        {
+            "source": "GNV",
+            "target": "MSY",
+            "value": 969.0
+        },
+        {
+            "source": "RNO",
+            "target": "LAX",
+            "value": 390.0
+        },
+        {
+            "source": "LAS",
+            "target": "LAX",
+            "value": 236.0
+        },
+        {
+            "source": "KOA",
+            "target": "LAX",
+            "value": 2504.0
+        },
+        {
+            "source": "LIH",
+            "target": "LAX",
+            "value": 2615.0
+        },
+        {
+            "source": "SAN",
+            "target": "LAX",
+            "value": 109.0
+        },
+        {
+            "source": "OGG",
+            "target": "LAX",
+            "value": 2487.90063875089
+        },
+        {
+            "source": "SFO",
+            "target": "LAX",
+            "value": 337.108869565217
+        },
+        {
+            "source": "MRY",
+            "target": "LAX",
+            "value": 267.0
+        },
+        {
+            "source": "SJC",
+            "target": "LAX",
+            "value": 308.0
+        },
+        {
+            "source": "MFR",
+            "target": "LAX",
+            "value": 665.5
+        },
+        {
+            "source": "FAT",
+            "target": "LAX",
+            "value": 209.0
+        },
+        {
+            "source": "SUN",
+            "target": "LAX",
+            "value": 696.0
+        },
+        {
+            "source": "SBA",
+            "target": "LAX",
+            "value": 89.0
+        },
+        {
+            "source": "GGG",
+            "target": "LIT",
+            "value": 444.0
+        },
+        {
+            "source": "MYR",
+            "target": "IAH",
+            "value": 1272.0
+        },
+        {
+            "source": "SJT",
+            "target": "IAH",
+            "value": 452.0
+        },
+        {
+            "source": "ITO",
+            "target": "IAH",
+            "value": 4224.0
+        },
+        {
+            "source": "SLC",
+            "target": "FAT",
+            "value": 501.0
+        },
+        {
+            "source": "PBI",
+            "target": "CLT",
+            "value": 590.0
+        },
+        {
+            "source": "CGI",
+            "target": "ONT",
+            "value": 1853.0
+        }
+    ]
+}
